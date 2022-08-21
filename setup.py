@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tkhtmlview",
-    version=tkhtmlview.VERSION,
+    version="0.1.0.post1",
     author="Palash Bauri",
     author_email="hey@palashbauri.in",
     description="View Simple HTML docs on tkinter",
